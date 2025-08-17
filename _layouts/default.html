@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/main.css">
+</head>
+
+<body>
+        <div id="outerbox">
+    <div id="toprow">
+        <div>
+            <a href="mailto:info@espritsjoueurs.be">
+                <div style="display: flex; align-items: center;">
+                    <img src="/assets/email.svg" style="width:16px;height:16px; vertical-align: middle;">&nbsp;info@espritsjoueurs.be
+                </div>
+            </a>
+        </div>
+        <div>
+            <a href="https://www.facebook.com/espritsjoueurs">
+                <img src="/assets/facebook.svg" style="width:16px;height:16px;">
+            </a>
+            <a href="https://chat.whatsapp.com/GUk0evUypgW2xdxGF4A1JQ">
+                <img src="/assets/whatsapp.svg" style="width:16px;height:16px;">
+            </a>
+        </div>
+    </div>
+    <nav class="site-nav">
+        <ul>
+            <li><a href="/" {% if page.url=='/' %} class="active" {% endif %}>Accueil</a></li>
+            <li><a href="/events/" {% if page.url=='/events/' %} class="active" {% endif %}>Événements</a></li>
+            <li><a href="/ludotheque/" {% if page.url=='/ludotheque/' %} class="active" {% endif %}>Ludothèque</a></li>
+            <li><a href="/happydes/" {% if page.url=='/happydes/' %} class="active" {% endif %}>Happy Dés</a></li>
+        </ul>
+    </nav>
+    <main class="site-main">
+        {{ content }}
+    </main>
+    </div>
+</body>
+
+</html>
