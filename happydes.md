@@ -6,6 +6,8 @@ permalink: /happydes/
 
 # Happy Dés
 
+![](/assets/banner_contact.jpg){: .banner }
+
 ![](/assets/banner_happydes.jpg){: .banner }
 
 Happy Dés, c’est l’évènement ludique montois à ne pas manquer !
@@ -30,3 +32,30 @@ Envie de revendre tes jeux usagés, tes vieux decks de cartes, tes raretés ludi
 Envie d’obtenir à bon prix le jeu qui manque à ta collection ?
 
 Durant toute la période de notre festival, nous te proposons un espace « Dépôt/Vente », géré par notre club.
+
+Une table sera réservée pour la vente et un responsable gérera le dépôt et la vente des jeux.
+Le dépôt-vente sera accessible toute la journée jusqu'à 17h. Le responsable de la vente sera là pour vous conseiller et vous aider.
+
+Voici ci-dessous le règlement de la vente:
+
+1. Tous les jeux mis en vente sont considérés comme d’occasion même si le jeu est sous cellophane ou d’apparence comme neuf.
+
+1. Le vendeur est libre de fixer le prix de vente de ses jeux.
+10% du prix de la vente reviendra à l’asbl Esprits joueurs comme commission.
+Par exemple, sur un jeu que vous vendrez 20 €, vous récupérerez 18 € et 2 € iront à Esprits joueurs.
+
+1. Le vendeur devra bien vérifier l’état des jeux mis en vente et notifier si le jeu est incomplet ou dégradé.
+De même, l’acheteur devra vérifier lui aussi que le jeu convoité est bien tel que précisé par le vendeur.
+Les vendeurs et acheteurs restent responsables de leurs ventes et de leurs achats. 🙂
+
+1. Vous pouvez demander à l’organisation de vous mettre en contact avec un éventuel acheteur qui souhaiterait marchander sur le prix.
+De même, vous pouvez également avertir l’organisation du prix minimum d’un jeu.
+
+1. Avant de partir, vous recevrez l’argent de la vente de vos jeux et vos jeux invendus auprès du responsable de la vente des jeux.
+
+<!--
+Et pour faciliter la vie, nous vous mettons en ligne le formulaire à imprimer et préremplir pour lister vos jeux mis en dépôt:
+Formulaire de dépôt-vente de jeux de société – Happy dés 2024.
+-->
+
+Si vous avez des questions, contactez-nous par courriel : [{{ site.email }}](mailto:{{ site.email }})

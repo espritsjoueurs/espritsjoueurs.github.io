@@ -12,14 +12,14 @@
         <div id="outerbox">
     <div id="toprow">
         <div>
-            <a href="mailto:info@espritsjoueurs.be">
+            <a href="mailto:{{ site.email }}">
                 <div style="display: flex; align-items: center;">
-                    <img src="/assets/email.svg" style="width:16px;height:16px; vertical-align: middle;">&nbsp;info@espritsjoueurs.be
+                    <img src="/assets/email.svg" style="width:16px;height:16px; vertical-align: middle;">&nbsp;{{ site.email }}
                 </div>
             </a>
         </div>
         <div>
-            <a href="https://www.facebook.com/espritsjoueurs">
+            <a href="{{ site.facebook_url }}">
                 <img src="/assets/facebook.svg" style="width:16px;height:16px;">
             </a>
             <a href="https://chat.whatsapp.com/GUk0evUypgW2xdxGF4A1JQ">
@@ -30,9 +30,10 @@
     <nav class="site-nav">
         <ul>
             <li><a href="/" {% if page.url=='/' %} class="active" {% endif %}>Accueil</a></li>
-            <li><a href="/events/" {% if page.url=='/events/' %} class="active" {% endif %}>Événements</a></li>
             <li><a href="/ludotheque/" {% if page.url=='/ludotheque/' %} class="active" {% endif %}>Ludothèque</a></li>
             <li><a href="/happydes/" {% if page.url=='/happydes/' %} class="active" {% endif %}>Happy Dés</a></li>
+            <li><a href="/location/" {% if page.url=='/location/' %} class="active" {% endif %}>Notre local</a></li>
+            <li><a href="/contact/" {% if page.url=='/contact/' %} class="active" {% endif %}>Nous Rejoindre</a></li>
         </ul>
     </nav>
     <main class="site-main">

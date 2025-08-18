@@ -19,6 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Esprits Joueurs"
+email: esprits.joueurs@gmail.com
+facebook_url: https://www.facebook.com/espritsjoueurs
 
 # Build settings
 plugins:
