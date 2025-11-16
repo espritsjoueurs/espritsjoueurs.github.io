@@ -4,6 +4,8 @@ title: Happy Dés
 permalink: /happydes/
 ---
 
+![](/assets/happydes2026.jpg){: .banner }
+
 # Happy Dés
 
 ![](/assets/banner_contact.jpg){: .banner }

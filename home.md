@@ -4,6 +4,8 @@ title: Home
 permalink: /
 ---
 
+![](/assets/happydes2026.jpg){: .banner }
+
 # Bienvenue chez Esprits Joueurs
 
 ![](/assets/banner_accueil.jpg){: .banner }
