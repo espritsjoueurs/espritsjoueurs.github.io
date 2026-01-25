@@ -40,20 +40,17 @@ Le dépôt-vente sera accessible toute la journée jusqu’à 17h. Le responsabl
 
 Voici ci-dessous le règlement de la vente:
 
-1. Tous les jeux mis en vente sont considérés comme d’occasion même si le jeu est sous cellophane ou d’apparence comme neuf.
-
-1. Le vendeur est libre de fixer le prix de vente de ses jeux.
-10% du prix de la vente reviendra à l’asbl Esprits joueurs comme commission.
-Par exemple, sur un jeu que tu vendras 20 €, tu récupéreras 18 € et 2 € iront à Esprits joueurs.
-
-1. Le vendeur devra bien vérifier l’état des jeux mis en vente et notifier si le jeu est incomplet ou dégradé.
-De même, l’acheteur devra vérifier lui aussi que le jeu convoité est bien tel que précisé par le vendeur.
-Les vendeurs et acheteurs restent responsables de leurs ventes et de leurs achats. 🙂
-
-1. Tu peux demander à l’organisation de te mettre en contact avec un éventuel acheteur qui souhaiterait marchander sur le prix.
-De même, tu peux également avertir l’organisation du prix minimum d’un jeu.
-
-1. Avant de partir, tu recevras l’argent de la vente de tes jeux et tes jeux invendus auprès du responsable de la vente des jeux.
+1. La bourse aux jeux sera ouverte du samedi 23 mai 2026 à 11h jusqu’au dimanche 24 mai 2026 à 16h.
+1. Le vendeur est libre de fixer le prix de vente de ses jeux. 10% du prix de la vente reviendra à l’asbl Esprits Joueurs comme commission (par exemple, sur un jeu que tu vendras 20 €, tu récupéreras 18 € et 2 € iront à Esprits Joueurs).
+1. Le vendeur devra bien vérifier l’état des jeux qu’il met en vente et indiquer clairement (sur la boîte, ou dans la boîte) si un jeu est incomplet ou dégradé. Les acheteurs ont le droit d’inspecter les jeux avant de les acheter.
+1. L’asbl Esprits Joueurs n’est en aucun cas responsable d'éventuels vols ou dégâts causés durant la bourse aux jeux. On fait de notre mieux pour surveiller, mais on ne garantit rien.
+1. Dépôt des jeux :
+    - Le dépôt se fait dans les locaux du collège Saint-Stanislas aux horaires suivants : vendredi 23 mai 2026 entre 17h30 et 19h ou le samedi 24 mai 2026 entre 9h et 10h30. Aucun dépôt ne sera accepté en dehors de ces horaires.
+    - Aucun dépôt ne sera accepté sans le formulaire de vente préalablement rempli et signé par le vendeur. Ce formulaire est disponible sur notre site Internet. 
+1. Reprise des jeux et paiement aux vendeurs :
+    - Les jeux invendus seront récupérés par les vendeurs le dimanche 24 mai entre 16h et 18h. Il n’y aura aucune exception de reprise anticipative que ce soit le samedi 23 mai ou durant la journée du dimanche 24 mai avant 16h.
+    - Le paiement des bénéfices des jeux vendus (pour rappel, prix du jeu moins les 10% de commission pour Esprits Joueurs) sera effectué en liquide lors de la reprise des jeux invendus.
+1. Le dépôt d’un jeu implique l'acceptation du présent règlement.
 
 <!--
 Et pour faciliter la vie, nous vous mettons en ligne le formulaire à imprimer et préremplir pour lister vos jeux mis en dépôt:
