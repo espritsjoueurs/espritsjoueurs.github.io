@@ -33,10 +33,7 @@ Plusieurs tournois sont organisés durant Happy Dés.
 Envie de revendre tes jeux usagés, tes vieux decks de cartes, tes raretés ludiques, tes jeux qui dorment sur une étagère ?
 Envie d’obtenir à bon prix le jeu qui manque à ta collection ?
 
-Durant toute la période de notre festival, nous te proposons un espace « Dépôt/Vente », géré par notre club.
-
-Une table sera réservée pour la vente et un responsable gérera le dépôt et la vente des jeux.
-Le dépôt-vente sera accessible toute la journée jusqu’à 17h. Le responsable de la vente sera là pour te conseiller et t’aider.
+Durant toute la période de notre festival, nous te proposons un espace « Dépôt/Vente », géré par notre club. Un responsable sera là pour te conseiller et t’aider.
 
 Voici ci-dessous le règlement de la vente:
 
