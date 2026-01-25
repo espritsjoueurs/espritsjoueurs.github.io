@@ -49,9 +49,9 @@ Voici ci-dessous le règlement de la vente:
     - Le paiement des bénéfices des jeux vendus (pour rappel, prix du jeu moins les 10% de commission pour Esprits Joueurs) sera effectué en liquide lors de la reprise des jeux invendus.
 1. Le dépôt d’un jeu implique l'acceptation du présent règlement.
 
-<!--
-Et pour faciliter la vie, nous vous mettons en ligne le formulaire à imprimer et préremplir pour lister vos jeux mis en dépôt:
-Formulaire de dépôt-vente de jeux de société – Happy dés 2024.
--->
-
 Si tu as des questions, contacte-nous par courriel : [{{ site.email }}](mailto:{{ site.email }})
+
+## Lien vers le formulaire
+
+A télécharger, imprimer, et compléter:
+[Formulaire Happy dés 2026]({{ site.url }}/download/depot_vente.pdf)
