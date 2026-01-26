@@ -39,6 +39,7 @@ Voici ci-dessous le règlement de la vente:
 
 1. La bourse aux jeux sera ouverte du samedi 23 mai 2026 à 11h jusqu’au dimanche 24 mai 2026 à 16h.
 1. Le vendeur est libre de fixer le prix de vente de ses jeux. 10% du prix de la vente reviendra à l’asbl Esprits Joueurs comme commission (par exemple, sur un jeu que tu vendras 20 €, tu récupéreras 18 € et 2 € iront à Esprits Joueurs).
+1. Si le vendeur souhaite confier au responsable d'Esprits Joueurs en charge de la bourse aux jeux le soin de négocier le prix avec l'acheteur, il peut indiquer un prix minimum en dessous duquel la négociation ne pourra pas descendre. À défaut d'un prix minimum précisé lors du dépôt des jeux, le prix est considéré comme ferme et non-négociable.
 1. Le vendeur devra bien vérifier l’état des jeux qu’il met en vente et indiquer clairement (sur la boîte, ou dans la boîte) si un jeu est incomplet ou dégradé. Les acheteurs ont le droit d’inspecter les jeux avant de les acheter.
 1. L’asbl Esprits Joueurs n’est en aucun cas responsable d'éventuels vols ou dégâts causés durant la bourse aux jeux. On fait de notre mieux pour surveiller, mais on ne garantit rien.
 1. Dépôt des jeux :
