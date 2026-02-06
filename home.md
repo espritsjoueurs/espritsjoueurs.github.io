@@ -4,6 +4,8 @@ title: Home
 permalink: /
 ---
 
+Ceci est la page d'accueil. Pour plus d'informations sur notre weekend de jeux de société, sélectionne "Happy Dés" sur la bannière ci-dessus.
+
 ![](/assets/happydes2026.jpg){: .banner }
 
 # Bienvenue chez Esprits Joueurs

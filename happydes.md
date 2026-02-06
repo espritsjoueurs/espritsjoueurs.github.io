@@ -46,7 +46,7 @@ Voici ci-dessous le règlement de la vente:
     - Le dépôt se fait dans les locaux du collège Saint-Stanislas aux horaires suivants : vendredi 23 mai 2026 entre 17h30 et 19h ou le samedi 24 mai 2026 entre 9h et 10h30. Aucun dépôt ne sera accepté en dehors de ces horaires.
     - Aucun dépôt ne sera accepté sans le formulaire de vente préalablement rempli et signé par le vendeur. Ce formulaire est disponible sur notre site Internet. 
 1. Reprise des jeux et paiement aux vendeurs :
-    - Les jeux invendus seront récupérés par les vendeurs le dimanche 24 mai entre 16h et 18h. Il n’y aura aucune exception de reprise anticipative que ce soit le samedi 23 mai ou durant la journée du dimanche 24 mai avant 16h.
+    - Les jeux invendus seront récupérés par les vendeurs le samedi 23 mai entre 16h et 18h, ou le dimanche 24 mai entre 16h et 18h. Il n’y aura aucune exception de reprise anticipative en dehors de ces heures. Les jeux restant en vente jusqu'au dimanche ne doivent pas être repris le samedi.
     - Le paiement des bénéfices des jeux vendus (pour rappel, prix du jeu moins les 10% de commission pour Esprits Joueurs) sera effectué en liquide lors de la reprise des jeux invendus.
 1. Le dépôt d’un jeu implique l'acceptation du présent règlement.
 
