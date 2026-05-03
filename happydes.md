@@ -43,7 +43,7 @@ Voici ci-dessous le règlement de la vente:
 1. Le vendeur devra bien vérifier l’état des jeux qu’il met en vente et indiquer clairement (sur la boîte, ou dans la boîte) si un jeu est incomplet ou dégradé. Les acheteurs ont le droit d’inspecter les jeux avant de les acheter.
 1. L’asbl Esprits Joueurs n’est en aucun cas responsable d'éventuels vols ou dégâts causés durant la bourse aux jeux. On fait de notre mieux pour surveiller, mais on ne garantit rien.
 1. Dépôt des jeux :
-    - Le dépôt se fait dans les locaux du collège Saint-Stanislas aux horaires suivants : vendredi 23 mai 2026 entre 17h30 et 19h ou le samedi 24 mai 2026 entre 9h et 10h30. Aucun dépôt ne sera accepté en dehors de ces horaires.
+    - Le dépôt se fait dans les locaux du collège Saint-Stanislas aux horaires suivants : vendredi 22 mai 2026 entre 17h30 et 19h ou le samedi 23 mai 2026 entre 9h et 10h30. Aucun dépôt ne sera accepté en dehors de ces horaires.
     - Aucun dépôt ne sera accepté sans le formulaire de vente préalablement rempli et signé par le vendeur. Ce formulaire est disponible sur notre site Internet. 
 1. Reprise des jeux et paiement aux vendeurs :
     - Les jeux invendus seront récupérés par les vendeurs le samedi 23 mai entre 16h et 18h, ou le dimanche 24 mai entre 16h et 18h. Il n’y aura aucune exception de reprise anticipative en dehors de ces heures. Les jeux restant en vente jusqu'au dimanche ne doivent pas être repris le samedi.
